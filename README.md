@@ -1,2 +1,1 @@
-# Exploratory-Data-Analysis
-Extensive Exploratory Data Analysis on BRFSS 2013 Dataset
+Exploratory Data Analysis: Unveiling Insights from the NYC Taxi Dataset
